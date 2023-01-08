@@ -2,7 +2,7 @@
 
 *Directors: Sisi Aarukapalli & Pranav Nair*
 
-### 1. ROVer Optometry (ρ): Underwater Object Detection using CNNs ⛵
+### 1. ROVer Optometry (ρ): Underwater Object Detection ⛵
 `Led by Aarian Ahsan`
   >You will learn the basics of image classification to then be immediately thrown into the ringer to train a model that can detect certain types of objects under various measures of turbid water by utilizing CNNs (Convolutional neural networks) such as YOLO or MobileNet. The main goal is to be able to demonstrate underwater image classification at a high accuracy rate. (If all goes well we’ll be able to see it in action with a live ROV from Robosub).
   
