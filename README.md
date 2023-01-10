@@ -6,10 +6,10 @@
 `Led by Aarian Ahsan`
   >You will learn the basics of image classification to then be immediately thrown into the ringer to train a model that can detect certain types of objects under various measures of turbid water by utilizing CNNs (Convolutional neural networks) such as YOLO or MobileNet. The main goal is to be able to demonstrate underwater image classification at a high accuracy rate. (If all goes well we’ll be able to see it in action with a live ROV from Robosub).
   
-### 2. Discovering Effective Adversarial Example Attacks with Criminal Victim Models 👾
+### 2. Using Adversarial Attacks to Deceive Political Disinformation Models on Twitter 👾
 `Led by Chris Back`
-  >You will attempt to fool critical, real life applications of visual image detection by using adversarial examples. An adversarial example feeds an image detection model seemingly friendly input that’s designed to trick the model into outputting an intended mistake. Then, the team will attempt to train these attacks using datasets completely separate from the ones used to train the victim models, and see what factors affect transferability. This project aims to identify which aspects of the machine learning supply chain should be kept secret from malicious users who want to wreak havoc with adversarial learning.
- 
+  >You will attempt to fool machine learning models trained to detect political disinformation on Twitter using adversarial learning. An adversarial example feeds a model seemingly healthy input which is actually designed to deceive the model into outputting an intended mistake. This project aims to identify if political actors (ex. Russia-Ukraine Conflict) can bypass detection systems using adversarial learning to spread misinformation to fool public understanding of social media. 
+  
 ### 3. Colored Image Translation with CycleGAN 🎨
 `Led by Ben Bowers`
   >Images that are used as training data for machine learning are often more effective if they use a specific color scheme, such as thermal coloring. Using CycleGAN, we will build a model that can convert a given photo from normal coloring to specific colorings that are more effective as training data.
